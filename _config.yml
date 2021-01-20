@@ -14,7 +14,7 @@ description              : &description ""
 url                      : https://yiqing-hua.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https//yiqing-hua.com" # the subpath of your site, e.g. "/blog"
 repository               : "vegetable68/vegetable68.github.io"
-teaser                   : "/images/hua.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "hua.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
