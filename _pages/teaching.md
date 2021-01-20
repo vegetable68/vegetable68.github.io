@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
 
 * Spring 2021: Tech, Media and Democracy
 
