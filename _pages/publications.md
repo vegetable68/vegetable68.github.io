@@ -14,7 +14,7 @@ author_profile: true
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  
 *Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates*   
 `Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)`   
-:trophy:**Honorable Mention**  
+:trophy: **Honorable Mention**  
 [[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)]
 [[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
 [[presentation]](https://www.youtube.com/watch?v=hdap4ndgqUk)
