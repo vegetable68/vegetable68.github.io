@@ -37,6 +37,7 @@ author_profile: true
 * Eugene Bagdasaryan, Andreas Veit, **Yiqing Hua**, Deborah Estrin, Vitaly Shmatikov.   
 *How to backdoor federated learning*   
 `Proc. the International Conference on Artificial Intelligence and Statistics (AISTATS 2020).`
+[[arXiv](https://arxiv.org/abs/1807.00459)]
 
 
 * **Yiqing Hua**.  
@@ -54,6 +55,7 @@ author_profile: true
 * Justine Zhang, Jonathan P. Chang, Cristian Danescu-Niculescu-Mizil, Lucas Dixon, **Yiqing Hua**, Nithum Thain, and Dario Taraborelli.  
 *Conversations Gone Awry: Detecting Early Signs of Conversational Failure*    
 `Proc. the 56th Annual Meeting of the Association for Computational Linguistics. (ACL 2018)`    
+[[arXiv](https://arxiv.org/abs/1805.05345)]
 
 * **Yiqing Hua**, Chao Li, Weichao Tang, Li Jiang, and Xiaoyao Liang.   
 *Building fuel powered supercomputing data center at low cost*    
