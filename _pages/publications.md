@@ -9,6 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* Anton Abilov, **Yiqing Hua**, Hana Matatov, Ofra Amir, Mor Naaman.  
+*VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter*  
+`arXiv:2101.08210`   
+[[arXiv](https://arxiv.org/abs/2101.08210)]
+[[dataset](https://github.com/sTechLab/VoterFraud2020)]
+[[website](http://voterfraud2020.io/)]
 
 
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  

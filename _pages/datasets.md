@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-* WikiConv: a multilingual corpus encompassing the history of conversations on Wikipedia Talk Pages[[link](https://convokit.cornell.edu/documentation/wikiconv.html)]
-* Twitter interactions with U.S. political candidates in 2018 midterm election[[link](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
-* Twitter accounts of U.S. political candidates in 2020 midterm election[[link](https://github.com/vegetable68/Midterm-2020-candidates)]
-* Twitter accounts of U.S. political candidates in 2018 midterm election[[link](https://github.com/vegetable68/Midterm-2018-candidates)]
+
+* [VoterFraud2020](https://voterfraud2020.io/): a Twitter Dataset of Election Fraud Claims
+* Twitter accounts of U.S. political candidates [[2018](https://github.com/vegetable68/Midterm-2018-candidates)][[2020](https://github.com/vegetable68/Midterm-2020-candidates)]
+* [Election2018](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062): a Twitter Dataset of Interactions with U.S. Political Candidates in 2018 Midterm Election
+* [WikiConv](https://convokit.cornell.edu/documentation/wikiconv.html): a Multilingual Corpus of Wikipedia Talk Pages   
 
 
