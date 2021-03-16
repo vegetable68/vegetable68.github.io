@@ -14,7 +14,7 @@ I am interested in measuring and mitigating threats on social media.
 
 [[cv](http://vegetable68.github.io/cv.pdf)]
 
-# News 
+## News 
 
 [2021.Mar.16th] Our paper [*VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter*](http://voterfraud2020.io/) was accepted at ICWSM 2021.
 
