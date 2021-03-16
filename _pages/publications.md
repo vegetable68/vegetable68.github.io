@@ -10,8 +10,8 @@ author_profile: true
 {% endif %}
 
 * Anton Abilov, **Yiqing Hua**, Hana Matatov, Ofra Amir, Mor Naaman.  
-*VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter*  
-`arXiv:2101.08210`   
+*VoterFraud2020: a Multi-modal Dataset of Election Fraud Claims on Twitter*   
+`To Appear, International Conference of Web and Social Media (ICWSM 2021).`
 [[arXiv](https://arxiv.org/abs/2101.08210)]
 [[dataset](https://github.com/sTechLab/VoterFraud2020)]
 [[website](http://voterfraud2020.io/)]
